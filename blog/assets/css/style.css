@@ -1,0 +1,200 @@
+/* ─── Reset & Base ─────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg:        #faf9f7;
+  --fg:        #1a1a1a;
+  --muted:     #6b6b6b;
+  --accent:    #2c2c2c;
+  --border:    #e0ddd8;
+  --link:      #8b0000;
+  --link-hover:#c0392b;
+  --max-width: 680px;
+  --serif:     'Georgia', 'Times New Roman', serif;
+  --sans:      system-ui, -apple-system, sans-serif;
+}
+
+html { font-size: 18px; scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--serif);
+  line-height: 1.75;
+  padding: 0 1.5rem;
+}
+
+/* ─── Layout ───────────────────────────────────────────────── */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+}
+
+/* ─── Header ───────────────────────────────────────────────── */
+header {
+  padding: 3rem 0 2rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 3rem;
+}
+
+header a { text-decoration: none; color: inherit; }
+
+.site-title {
+  font-family: var(--serif);
+  font-size: 1.6rem;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+  color: var(--fg);
+}
+
+.site-desc {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-top: 0.25rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* ─── Post list ────────────────────────────────────────────── */
+.post-list { list-style: none; }
+
+.post-list li {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.post-list li:first-child { padding-top: 0; }
+
+.post-date {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+.post-list h2 {
+  font-size: 1.15rem;
+  font-weight: normal;
+  line-height: 1.4;
+}
+
+.post-list h2 a {
+  color: var(--fg);
+  text-decoration: none;
+}
+
+.post-list h2 a:hover { color: var(--link-hover); }
+
+.post-excerpt {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-top: 0.5rem;
+  line-height: 1.6;
+}
+
+/* ─── Article ──────────────────────────────────────────────── */
+article { padding-bottom: 4rem; }
+
+.post-header { margin-bottom: 2.5rem; }
+
+.post-header h1 {
+  font-size: 2rem;
+  font-weight: normal;
+  line-height: 1.25;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.75rem;
+}
+
+.post-meta {
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--muted);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.post-body p { margin-bottom: 1.4em; }
+
+.post-body h2 {
+  font-size: 1.2rem;
+  font-weight: normal;
+  margin: 2em 0 0.75em;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.3em;
+}
+
+.post-body blockquote {
+  border-left: 3px solid var(--border);
+  padding-left: 1.2rem;
+  color: var(--muted);
+  font-style: italic;
+  margin: 1.5em 0;
+}
+
+.post-body em { font-style: italic; }
+.post-body strong { font-weight: bold; }
+
+.post-body hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2.5em auto;
+  width: 40%;
+}
+
+/* ─── Cover image ──────────────────────────────────────────── */
+.post-cover {
+  margin: 0 0 2.5rem;
+}
+
+.post-cover img {
+  width: 100%;
+  max-height: 420px;
+  object-fit: cover;
+  display: block;
+  border-radius: 2px;
+}
+
+.post-cover figcaption {
+  font-family: var(--sans);
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-top: 0.4rem;
+  text-align: right;
+}
+
+.post-cover figcaption a { color: var(--muted); }
+
+/* ─── Back link ────────────────────────────────────────────── */
+.back {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  color: var(--muted);
+  text-decoration: none;
+  letter-spacing: 0.03em;
+  margin-bottom: 2rem;
+}
+
+.back:hover { color: var(--link-hover); }
+.back::before { content: "← "; }
+
+/* ─── Footer ───────────────────────────────────────────────── */
+footer {
+  border-top: 1px solid var(--border);
+  padding: 1.5rem 0 3rem;
+  font-family: var(--sans);
+  font-size: 0.75rem;
+  color: var(--muted);
+  text-align: center;
+  letter-spacing: 0.04em;
+}
+
+/* ─── Responsive ───────────────────────────────────────────── */
+@media (max-width: 480px) {
+  html { font-size: 16px; }
+  .post-header h1 { font-size: 1.6rem; }
+}

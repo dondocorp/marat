@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Flask body -->
+  <path d="M12 4 L12 14 L5 26 Q4 28 6 28 L26 28 Q28 28 27 26 L20 14 L20 4 Z"
+        fill="#1a1a2e" stroke="#4a90d9" stroke-width="1.5" stroke-linejoin="round"/>
+  <!-- Liquid in flask -->
+  <path d="M8 22 Q9 20 11 20 L21 20 L24 25 Q25 27 23 27 L9 27 Q7 27 8 25 Z"
+        fill="#4a90d9" opacity="0.8"/>
+  <!-- Bubbles -->
+  <circle cx="13" cy="23" r="1.2" fill="#7ec8f0" opacity="0.9"/>
+  <circle cx="17" cy="24.5" r="0.8" fill="#7ec8f0" opacity="0.9"/>
+  <!-- Flask neck top bar -->
+  <rect x="10" y="3" width="12" height="2.5" rx="1" fill="#4a90d9"/>
+</svg>

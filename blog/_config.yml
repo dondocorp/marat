@@ -1,0 +1,24 @@
+title: "Ácrata y Banquero"
+description: "Ficciones, alegorías y otras incomodidades."
+url: "https://afrp89.github.io"
+baseurl: ""
+
+author:
+  name: "afrp89"
+
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - convert_medium.py
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
