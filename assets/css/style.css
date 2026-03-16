@@ -152,6 +152,14 @@ article { padding-bottom: 4rem; }
   border-radius: 2px;
 }
 
+/* Medium export wrapper divs */
+.post-body .section-content,
+.post-body .section-inner,
+.post-body .section--body {
+  max-width: 100%;
+  overflow: hidden;
+}
+
 .post-body figure {
   margin: 2em 0;
 }
