@@ -157,7 +157,7 @@ article { padding-bottom: 4rem; }
 .post-body .section-inner,
 .post-body .section--body {
   max-width: 100%;
-  overflow: hidden;
+  overflow-x: clip;
 }
 
 .post-body figure {
