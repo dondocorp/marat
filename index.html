@@ -2,6 +2,10 @@
 layout: default
 title: Inicio
 ---
+<div class="random-wrap">
+  <button class="random-btn" onclick="goRandom()">Texto al azar</button>
+</div>
+
 <ul class="post-list">
   {% for post in site.posts %}
   <li>
@@ -13,3 +17,10 @@ title: Inicio
   </li>
   {% endfor %}
 </ul>
+
+<script>
+const posts = [{% for post in site.posts %}"{{ post.url | relative_url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+function goRandom() {
+  window.location.href = posts[Math.floor(Math.random() * posts.length)];
+}
+</script>
