@@ -2,8 +2,9 @@
 layout: default
 title: Inicio
 ---
-<div class="random-wrap">
-  <button class="random-btn" onclick="goRandom()">Texto al azar</button>
+<div class="incipit" id="incipit">
+  <blockquote class="incipit-text" id="incipit-text"></blockquote>
+  <a class="incipit-link" id="incipit-link" href="#"></a>
 </div>
 
 <ul class="post-list">
@@ -19,8 +20,64 @@ title: Inicio
 </ul>
 
 <script>
-const posts = [{% for post in site.posts %}"{{ post.url | relative_url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-function goRandom() {
-  window.location.href = posts[Math.floor(Math.random() * posts.length)];
-}
+const incipits = [
+  {
+    text: "Como si la paz y el dolor no fueran opuestos sino dos cosas que, llegado el momento, simplemente aprenden a repartirse el mismo cuerpo.",
+    title: "Andreia",
+    url: "/2026/04/12/andreia/"
+  },
+  {
+    text: "Incluso tomó con ternura un pisacorbata que él le había regalado en su cumpleaños. Nunca llegó a estrenarlo porque a donde fue, no hacen falta las corbatas.",
+    title: "Joaquín miró el cadáver que yacía en el suelo.",
+    url: "/2026/03/15/joaquin-miro-el-cadaver-que-yacia-en-el-suelo/"
+  },
+  {
+    text: "La primera vez que la vio se le heló la piel. Nunca había visto una mujer tan hermosa. Sus ojos eran de un gris azulino y cuando se posaron sobre él, del otro lado de la mesa, hicieron que en su pecho serpenteara un rayo.",
+    title: "Pepita de Millán era hermosa",
+    url: "/2023/06/17/pepita-de-millan-era-hermosa/"
+  },
+  {
+    text: "Allegro ma non troppo quiere decir que es una ocasión alegre pero no tanto, explicó el mayor con la mirada perdida en el vacío que no lograban llenar las notas de la melodía. Pero fíjese usted que además el nombre completo de la obra es Allegro ma non troppo un poco maestoso. Es decir que adicionalmente es un poco majestuoso. Como nos pasa ahora, ¿no le parece?",
+    title: "Soda para torturar",
+    url: "/2025/04/23/soda-para-torturar/"
+  },
+  {
+    text: "Pedro confirmó lo que ya sabía: los humanos se complican en lo simple y simplifican lo complejo.",
+    title: "Con tres caballos no se hace un carruaje",
+    url: "/2023/10/20/con-tres-caballos-no-se-hace-un-carruaje/"
+  },
+  {
+    text: "Como si aquella maravillosa ave encerrada en el aviario lujosamente diseñado pensara para sí misma: ningún cielo extranjero me protegerá jamás, ningún ala extraña escudará mi rostro, pero aún así me erigiré como testigo de un destino común.",
+    title: "Los Tucanes son tímidos, pero siempre llaman la atención",
+    url: "/2025/02/04/los-tucanes-son-timidos-pero-siempre-llaman-la-atencion/"
+  },
+  {
+    text: "Ya está muerto — esos movimientos son los reflejos de la muerte. Y así de repente dejaron de moverse y su mirada se perdió en el infinito.",
+    title: "Cirilo y Cerbero mataron a Felix",
+    url: "/2023/06/16/cirilo-y-cerbero-mataron-a-felix/"
+  },
+  {
+    text: "Los muñecos — me respondió con sorna.",
+    title: "Ojalá todos los muñecos fueran de trapo",
+    url: "/2022/12/28/ojala-todos-los-munecos-fueran-de-trapo/"
+  },
+  {
+    text: "Ese día las FARC decidieron saludarlo con morteros. Uno de ellos cayó en un pino a 15 metros de donde estábamos mi papá y yo. Antes de que pudiera comprenderlo del todo, sentí que volaba.",
+    title: "Ojalá todos los muñecos fueran de trapo",
+    url: "/2022/12/28/ojala-todos-los-munecos-fueran-de-trapo/"
+  },
+  {
+    text: "Las aves se perdieron. La yegua no.",
+    title: "Andreia",
+    url: "/2026/04/12/andreia/"
+  }
+];
+
+(function () {
+  const pick = incipits[Math.floor(Math.random() * incipits.length)];
+  document.getElementById('incipit-text').textContent = pick.text;
+  const link = document.getElementById('incipit-link');
+  link.textContent = pick.title;
+  link.href = pick.url;
+})();
 </script>
