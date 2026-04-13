@@ -22,6 +22,11 @@ title: Inicio
 <script>
 const incipits = [
   {
+    text: "Las aves se perdieron. La yegua no.",
+    title: "Andreia",
+    url: "/2026/04/12/andreia/"
+  },
+  {
     text: "Como si la paz y el dolor no fueran opuestos sino dos cosas que, llegado el momento, simplemente aprenden a repartirse el mismo cuerpo.",
     title: "Andreia",
     url: "/2026/04/12/andreia/"
@@ -32,9 +37,9 @@ const incipits = [
     url: "/2026/03/15/joaquin-miro-el-cadaver-que-yacia-en-el-suelo/"
   },
   {
-    text: "La primera vez que la vio se le heló la piel. Nunca había visto una mujer tan hermosa. Sus ojos eran de un gris azulino y cuando se posaron sobre él, del otro lado de la mesa, hicieron que en su pecho serpenteara un rayo.",
-    title: "Pepita de Millán era hermosa",
-    url: "/2023/06/17/pepita-de-millan-era-hermosa/"
+    text: "La rutina arranca temprano, al despuntar el alba. El soldado en el puesto de seguridad cabecea de sueño mientras se pregunta cuánto más podría durar la guerra.",
+    title: "Si Vis Pacem Para Bellum",
+    url: "/2026/03/11/si-vis-pacem-parabellum/"
   },
   {
     text: "Allegro ma non troppo quiere decir que es una ocasión alegre pero no tanto, explicó el mayor con la mirada perdida en el vacío que no lograban llenar las notas de la melodía. Pero fíjese usted que además el nombre completo de la obra es Allegro ma non troppo un poco maestoso. Es decir que adicionalmente es un poco majestuoso. Como nos pasa ahora, ¿no le parece?",
@@ -42,19 +47,79 @@ const incipits = [
     url: "/2025/04/23/soda-para-torturar/"
   },
   {
-    text: "Pedro confirmó lo que ya sabía: los humanos se complican en lo simple y simplifican lo complejo.",
-    title: "Con tres caballos no se hace un carruaje",
-    url: "/2023/10/20/con-tres-caballos-no-se-hace-un-carruaje/"
-  },
-  {
     text: "Como si aquella maravillosa ave encerrada en el aviario lujosamente diseñado pensara para sí misma: ningún cielo extranjero me protegerá jamás, ningún ala extraña escudará mi rostro, pero aún así me erigiré como testigo de un destino común.",
     title: "Los Tucanes son tímidos, pero siempre llaman la atención",
     url: "/2025/02/04/los-tucanes-son-timidos-pero-siempre-llaman-la-atencion/"
   },
   {
+    text: "Los colibríes se dirigían a sus nidos silbando notas bucólicas mientras el sol caía en el horizonte. El cielo cobrizo daba fe de un astro que se hundía en sus miedos.",
+    title: "Cacofonía melódica",
+    url: "/2024/07/17/cacofonia-melodica/"
+  },
+  {
+    text: "El azulejo se desplomó sobre el montículo de tierra fresca. Abrió las alas de par en par y abrigó con sus carnes un hormiguero furioso.",
+    title: "No es obligatorio ser el héroe",
+    url: "/2024/05/03/no-es-obligatorio-ser-el-heroe/"
+  },
+  {
+    text: "Un ave cuyos colores hasta entonces se consideraban imposibles se posó sobre la copa de un muérdago.",
+    title: "El valiente vive hasta que el cobarde se decide",
+    url: "/2024/03/20/el-valiente-vive-hasta-que-el-cobarde-se-decide/"
+  },
+  {
+    text: "El aguilucho se despertó antes del alba, el desespero lo mantuvo en vilo y apenas durmió.",
+    title: "El ignorar la ley, pajarito, no te libra de su castigo.",
+    url: "/2024/02/23/el-ignorar-la-ley-pajarito-no-te-libra-de-su-castigo/"
+  },
+  {
+    text: "Nada viene de la nada, repetía Rapaz ensimismado a Rapiña, su alumno. Era el último maestro buitre de su generación y tenía el sacramental deber de transmitir a su clan el conocimiento que había acumulado a lo largo de los años preparando cadáveres.",
+    title: "Ex nihilo nihil fit",
+    url: "/2024/02/07/ex-nihilo-nihil-fit/"
+  },
+  {
+    text: "Cóndores no se entierran todos los días — decía Goyo, el Gorrión en el funeral.",
+    title: "El infierno es demasiado dulce",
+    url: "/2023/11/27/el-infierno-es-demasiado-dulce/"
+  },
+  {
+    text: "Pedro confirmó lo que ya sabía: los humanos se complican en lo simple y simplifican lo complejo.",
+    title: "Con tres caballos no se hace un carruaje",
+    url: "/2023/10/20/con-tres-caballos-no-se-hace-un-carruaje/"
+  },
+  {
+    text: "La maraña de pelo que tenía Filipo se arremolinó con el viento frío de los primeros días de la primavera. Dejó caer el hacha una y otra vez sobre las ramas secas que apiló durante el invierno, los echaba de menos como los cuerpos de amigos queridos que no superaron el frío.",
+    title: "No se va a donde no lo invitan",
+    url: "/2023/09/30/no-se-va-a-donde-no-lo-invitan/"
+  },
+  {
+    text: "Camilo tomó otro cigarrillo. Lo golpeó en el extremo, se lo llevó a la boca y lo encendió. Ya había perdido la cuenta de los que había fumado.",
+    title: "La guerra no es cumbiamba",
+    url: "/2023/09/08/la-guerra-no-es-cumbiamba/"
+  },
+  {
+    text: "El nombre de Pepita apareció en la pantalla del teléfono mientras vibraba en su mano. Lorena no comprendía por qué la esposa del General Millán la llamaría un domingo en la mañana a ella, una simple secretaria.",
+    title: "La ropa sucia se lava en casa",
+    url: "/2023/06/30/la-ropa-sucia-se-lava-en-casa/"
+  },
+  {
+    text: "La primera vez que la vio se le heló la piel. Nunca había visto una mujer tan hermosa. Sus ojos eran de un gris azulino y cuando se posaron sobre él, del otro lado de la mesa, hicieron que en su pecho serpenteara un rayo.",
+    title: "Pepita de Millán era hermosa",
+    url: "/2023/06/17/pepita-de-millan-era-hermosa/"
+  },
+  {
     text: "Ya está muerto — esos movimientos son los reflejos de la muerte. Y así de repente dejaron de moverse y su mirada se perdió en el infinito.",
     title: "Cirilo y Cerbero mataron a Felix",
     url: "/2023/06/16/cirilo-y-cerbero-mataron-a-felix/"
+  },
+  {
+    text: "La bolsa tenía las tripas del soldado.",
+    title: "Algo viscoso como el alma",
+    url: "/2023/06/08/algo-viscoso-como-el-alma/"
+  },
+  {
+    text: "La rueda de la violencia gira por tracción sanguinal a lo largo de la historia humana y el principio es el mismo: cada vez encontraremos formas más sofisticadas de matarnos unos a otros.",
+    title: "Dinámica es la tecnología. Dinámica es la guerra.",
+    url: "/2023/04/18/dinamica-es-la-tecnologia-dinamica-es-la-guerra/"
   },
   {
     text: "Los muñecos — me respondió con sorna.",
@@ -67,9 +132,29 @@ const incipits = [
     url: "/2022/12/28/ojala-todos-los-munecos-fueran-de-trapo/"
   },
   {
-    text: "Las aves se perdieron. La yegua no.",
-    title: "Andreia",
-    url: "/2026/04/12/andreia/"
+    text: "Todo aquello que se denomina Inteligencia Artificial no es otra cosa que la traslación de responsabilidad dialéctica en la toma de decisiones de la subjetividad humana a la objetividad determinística.",
+    title: "Las promesas insatisfechas de la IA",
+    url: "/2021/04/11/las-promesas-insatisfechas-de-la-ia-o-o-porque-nadie-quiere-hacerse-cargo-de-lo-/"
+  },
+  {
+    text: "La asimetría se origina en la capacidad de ambas partes de administrar violencia sobre la otra. La violencia es la forma más pura de poder y el estado se consolida a través de su monopolio.",
+    title: "El tributo al rey o ¿cómo evitar la decapitación?",
+    url: "/2021/04/07/el-tributo-al-rey-o-como-evitar-la-decapitacion/"
+  },
+  {
+    text: "A mí me parece que los asuntos funerarios derivados de mi fallecimiento son un problema de aquel que se encuentre más cerca de donde caiga mi cadáver. Problema mío no es.",
+    title: "¿Y si resultáramos pinches cadáveres?",
+    url: "/2020/07/07/y-si-resultaramos-pinches-cadaveres/"
+  },
+  {
+    text: "Lo jodido del virus no es que mata los cuerpos, sino que desnuda las almas. Y por lo general, es espantoso.",
+    title: "Mi diario o como el Coronavirus se robó el estado de derecho",
+    url: "/2020/03/28/mi-diario-o-como-el-coronavirus-se-robo-el-estado-de-derecho/"
+  },
+  {
+    text: "Un día el país que tanto miedo tuvo de sucumbir ante las delicias de las dictaduras, se doblegó ante ellas.",
+    title: "21N | El día que Colombia se volvió Castro Chavista",
+    url: "/2019/11/20/21nel-dia-que-colombia-se-volvio-castro-chavista/"
   }
 ];
 
