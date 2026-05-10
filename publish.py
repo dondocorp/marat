@@ -125,6 +125,19 @@ def main():
 
     source = source_path.read_text(encoding='utf-8').strip()
 
+    # Parse optional directives at the top of in-progress.md
+    # Supported: cover: https://...
+    inline_image_url = ''
+    lines = source.splitlines()
+    body_lines = []
+    for line in lines:
+        m = re.match(r'^cover:\s*(.+)$', line.strip())
+        if m:
+            inline_image_url = m.group(1).strip()
+        else:
+            body_lines.append(line)
+    source = '\n'.join(body_lines).strip()
+
     title = args.title.strip() or input('Título del texto: ').strip()
     if not title:
         sys.exit('Error: se requiere un título.')
@@ -139,8 +152,8 @@ def main():
         if answer != 's':
             sys.exit('Cancelado.')
 
-    # Handle cover image
-    image_url = args.image_url.strip()
+    # Handle cover image: CLI flag takes precedence, then inline directive
+    image_url = args.image_url.strip() or inline_image_url
     if image_url:
         cover = download_image(image_url, repo_root / 'assets' / 'images', slug)
     else:
@@ -152,6 +165,9 @@ def main():
 
     output_path.write_text(post_content, encoding='utf-8')
     print(f'Publicado: _posts/{filename}')
+
+    source_path.write_text('', encoding='utf-8')
+    print(f'in-progress.md vaciado.')
 
 
 if __name__ == '__main__':

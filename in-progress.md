@@ -1,85 +1,179 @@
-Camila miraba desde la ventana del comando operacional con la taza de café enfriándose entre sus manos. Abajo, en el potrero, una yegua zaina caminaba sin apuro, deteniéndose cada tanto para mordisquear el pasto con una mansedumbre que la dejó obnubilada. Un alcaraván merodeaba cerca de ella con el nerviosismo que ha caracterizado a su especie desde siempre, dando saltitos cortos, estirando el cuello, girando la cabeza con una urgencia que no conducía a ninguna parte, como si cargara con una alarma permanente que nadie más había escuchado. La yegua lo ignoró con la majestad de quien ya no necesita apurarse por nada. Los soldados de caballería habían retirado el cuerpo de la madre de la yegua en la madrugada y sin embargo allí estaba, moviéndose con esa parsimonia desconcertante, como si sus patas hubieran llegado a un acuerdo con el mundo que su mirada todavía no podía aceptar. Porque cuando la yegua levantó la cabeza y sus ojos oscuros recorrieron el potrero vacío, Camila vio una tristeza densa y sin fondo, incongruente con la serenidad de cada uno de sus pasos. El alcaraván lanzó su grito y salió disparado hacia el otro extremo del potrero. La yegua ni parpadeó. Era ese contraste lo que dejaba apartarse del vidrio a Camila. Un animal cuyo cuerpo se había rendido a la mañana mientras sus ojos seguían velando. Como si la paz y el dolor no fueran opuestos sino dos cosas que, llegado el momento, simplemente aprenden a repartirse el mismo cuerpo.
+Las flores llegaron el martes
 
-La radio frecuencia militar la arrancó de golpe de su laberinto interior. El mayor Pérez tomó el micrófono con el automatismo de quien lleva años haciéndolo a la misma hora y respondió el llamado del Coronel Vásquez con la entonación exacta que el protocolo demandaba. Camila dejó la taza sobre el escritorio y tomó la bitácora de novedades. Los dos guardias de la policía militar apostados a ambos lados de la puerta no se movieron, como era su costumbre. Llevaban allí tanto tiempo y con tanta constancia que Camila había dejado de verlos, igual que se deja de ver el marco de una ventana. Lo que siguió fue una letanía. El Coronel Vásquez enumeraba con una calma espantosa las bajas de la semana anterior, los municipios comprometidos, los flancos expuestos, las rutas cortadas. Cada cifra llegaba con la misma cadencia plana con la que se leen las características de un producto, como si la muerte fuera un elemento más en la lista de las compras. Camila anotaba. El mayor Pérez escuchaba con la mandíbula apretada. El panorama que se iba construyendo número a número era el de una derrota clara y metódica, administrada con la burocracia fría de quien ya no se sorprende de nada. Se preguntaba si no era más práctico anotar qué quedaba aún bajo control del estado que llevar la rúbrica de aquello que había perdido.
+Rodrigo había reservado la suite con seis meses de anticipación. Era el tipo de hombre que no dejaba nada al azar, lo cual Mariana había confundido durante mucho tiempo con una virtud.
 
-Fue entonces que el Coronel Vásquez interrumpió la comunicación. *¿Cómo quedaron las competencias de salto?* preguntó, como si hubiera cambiado de canal. El mayor Pérez consultó con la mirada a la mayor Camila que no levantó los ojos de la bitácora. *Oro en uno treinta, mi Coronel. Bronce en uno cincuenta.* Hubo una pausa. Y luego el Coronel Vásquez dejó de ser parsimonioso. *¡Bronce!* estalló, y la palabra llegó por la radio con una distorsión que era en parte estática y en parte cólera. *¡A estas alturas ese animal salta solo, carajo, y ustedes encima le estorban! ¡Más les valdría cerrar los malditos ojos y soltar las riendas que el hijueputa caballo sabe mejor que cualquiera de ustedes cómo pasar un obstáculo!* El mayor Pérez sostuvo el micrófono sin responder, con esa expresión de quien recibe un golpe y decide no acusarlo.
+La suite tenía vista al mar. Dos balcones. Una sala con sofá de cuero crema y un baño con dos lavamanos independientes, detalle que Rodrigo celebró en voz alta frente a los Montoya cuando estos llegaron a conocer las instalaciones la primera noche. Los Montoya tenían una habitación con vista interior, dato que él no mencionó pero que tampoco hizo nada por disimular.
 
-Camila dejó de anotar. Miró por la ventana. La yegua seguía abajo, indiferente, pastando con la misma paz de siempre, con la misma tristeza de siempre, sin que nadie le hubiera pedido ni el oro ni el bronce. Sintió algo moverse adentro. No era tristeza, cólera ni miedo sino algo más difícil de administrar, algo que tenía la misma textura de urgencia que los gritos del alcaraván antes de salir disparado. Dejó caer la pluma sobre la bitácora. Se puso de pie. El mayor Pérez levantó la vista con la expresión de quien espera una explicación. Camila tomó la chaqueta del respaldo de la silla y cruzó la puerta sin decir nada. Los guardias no levantaron la vista. No fue una salida ordenada. Fue un movimiento casi sin dueño, del tipo que se produce cuando el cuerpo toma una decisión antes de que uno haya terminado de pensarla. Afuera, en el corredor, el aire era más frío y el sonido de la radio quedó atrás enseguida. Camila caminó sin detenerse. Sabía que detrás de ella el mayor Pérez estaba mirando la puerta abierta con la misma cara que ella había puesto al mirar el alcaraván: la cara de quien no termina de entender a qué le tiene tanto miedo el otro, ni por qué huye con tanta convicción de algo que desde afuera no parece tan urgente. La yegua seguía abajo. Lo sabía sin mirar. Pastando con esa serenidad que era también una manera de cargar con todo. Y Camila, mientras sus pasos se alejaban por el cemento frío del corredor, no supo todavía si lo que buscaba era ser el pájaro o simplemente dejar de ser la yegua.
+Los cinco hijos dormían en dos camarotes contiguos. Rodrigo había establecido un protocolo para las comidas, para las excursiones, para el uso de la piscina. Había una hoja plastificada pegada en la puerta del camarote de los mayores. Mariana no supo cuándo la imprimió ni cuándo la pegó. Sencillamente apareció, como aparecían muchas cosas que Rodrigo decidía sin consultarle.
 
-La casa era pequeña y exacta, como todo lo que la guerra permite. Tres habitaciones con el mobiliario mínimo de quien ha aprendido a no encariñarse con las cosas que puede perder. En la sala, una silla y una mesa. En la cocina, lo suficiente. En el dormitorio, una cama, un velador con una lámpara y una pila de libros que nadie había ordenado porque nadie más que ella los tocaba. Dejó las llaves sobre la mesa sin encender la luz del pasillo.
+El crucero era su redención. Mariana lo sabía aunque él nunca lo dijera con esas palabras. El año anterior había sido un desastre de proporciones que ninguno de los dos nombraba: un negocio que se hundió con demasiado ruido, unos socios que dejaron de saludar, una temporada de ausencias y silencios que los Montoya y los demás habían notado con esa sensibilidad particular que tienen las personas que siguen la fortuna ajena como si fuera un deporte. El crucero era la respuesta. Catorce noches, suite con vista al mar, Mediterráneo. La narrativa correcta para el relato correcto.
 
-Se detuvo frente al espejo de cuerpo entero que había heredado de su madre y nunca se había molestado en colgar bien, de manera que la imagen devolvía siempre una figura levemente inclinada, como si el mundo entero tuviera una falla de medio grado hacia la izquierda. Se desabrochó el primer botón del cuello. Luego el segundo. La chaqueta cayó sobre la silla con un peso que no era solo de tela: era el peso de todo lo que había absorbido durante el día, el recuento de los muertos, la voz del Coronel Vásquez, el silencio del mayor Pérez. La planchó sobre el respaldo con ese automatismo disciplinado que ya no requería pensamiento. Luego las botas: cordón por cordón, sin apuro, colocadas juntas al pie de la cama con la suela paralela a la pared. Se aseguró que estuvieran limpias y sin manchas. Los pantalones doblados, la hebilla del cinturón cerrada. Cada prenda en su lugar como si el orden de los objetos pudiera contener algo que ella misma no terminaba de comprender.
+El mensaje de la coordinadora llegó el tercer día, mientras el barco atravesaba el estrecho de Gibraltar.
 
-Cuando se quedó en ropa interior frente al espejo, tuvo que mirarse un momento antes de seguir. No era el cuerpo lo que la detenía. Era lo otro: la expresión. Con el uniforme, los rasgos se organizaban solos en una geometría de autoridad. Sin él, había algo en la cara que se desarmaba, algo alrededor de los ojos y la boca que recordaba demasiado a la persona que había sido antes de aprender a ser esta. Una persona que sabía llorar, subrayaba los poemas y se dormía en los parques con el libro sobre el pecho. Una persona que la guerra había enterrado no con violencia sino con el método más eficaz que conoce: la falta de tiempo.
-
-Se puso la camiseta de dormir con los movimientos rápidos de quien prefiere no demorarse en ciertos momentos.
+*Señora Mariana, la enfermera de turno no se presentó. Estoy consiguiendo reemplazo.*
 
 ---
 
-En la cocina, dispuso la cena sobre la tabla de madera: dos tiras de carne seca, un puñado de aceitunas negras, un chorro de aceite de oliva sobre el pan, la botella de vino ya abierta desde el martes. Comió de pie, mirando la ventana que daba al patio trasero, que era también un patio vacío. No había hambre propiamente dicha sino la conciencia de que el cuerpo necesitaba combustible, que mañana habría más reuniones, más bitácoras, más frecuencias militares con voces que enumeraban bajas con la misma cadencia plana con la que se leen listas de supermercado. Bebió el primer vaso de vino de un trago largo. El segundo lo llevó a la cama.
+Antes de embarcar, Rodrigo le había dicho que esto no podía pasar. No en esos términos, porque Rodrigo rara vez decía las cosas en esos términos. Lo había dicho de otra manera, que era su manera: le había preguntado si estaba segura de que todo estaba en orden, si había verificado los contactos, si el médico sabía que ella iba a estar fuera. Le había preguntado tres veces en tres días distintos, con el mismo tono que se usa para revisar si cerraste la llave del gas, y Mariana había entendido que cada pregunta era una advertencia y que la advertencia era que el fracaso sería de ella.
+
+Había construido un andamiaje. No era la primera vez: llevaba dos años administrando la decadencia de su madre desde la distancia, que es la distancia más larga que existe. Había una coordinadora, Jimena, que supervisaba el apartamento. Una enfermera de día y otra de noche. Un médico de cabecera que respondía el teléfono hasta las ocho. Una vecina del piso de abajo que tenía llave para las emergencias.
+
+El andamiaje se había sostenido durante meses. Era razonable asumir que se sostendría dos semanas más.
+
+No se sostuvo.
 
 ---
 
-*De la Guerra* de Von Clausewitz estaba en el velador desde hacía dos semanas, marcado con una hoja de papel en el capítulo sobre la fricción. Camila lo abrió con la determinación de quien cumple una tarea antes de dormir. La prosa del general prusiano tenía esa austeridad calculada de quien desconfía de todo lo que no puede medirse: la guerra como instrumento de la política, la política como extensión de la racionalidad, la racionalidad como el único territorio donde el caos podía, en teoría, domesticarse. La idea que desplegaba con su frialdad característica era la de erradicar la imaginación del análisis: el buen estratega no anticipa lo que desea sino lo que el terreno dictamina. La imaginación, en esa lógica, era un lujo peligroso, la fuente de todos los errores de cálculo, el primer enemigo a vencer antes de enfrentarse al enemigo real. Camila lo sabía. Lo había aprendido con suficiente evidencia.
+La primera gaviota atacó el segundo día, durante el desayuno en cubierta.
 
-Y sin embargo, mientras leía, su cabeza empezó a producir imágenes que no había pedido: la yegua con los ojos húmedos, el alcaraván disparándose hacia el otro extremo del potrero, la cara del mayor Pérez desentendido de los avances de la guerrilla.
+La hija menor tenía un croissant en la mano y miraba el mar con esa atención total que tienen los niños cuando algo los maravilla por primera vez, y la gaviota descendió sin aviso y se lo arrancó de un golpe limpio. La niña gritó. Rodrigo se levantó de un salto. El croissant ya estaba en el aire, a diez metros, partido en el pico del ave que no miró atrás.
 
-El libro resbaló de sus manos cuando ya estaba a medias de un tercer párrafo. Camila no lo registró. Dormía con la luz encendida, la boca levemente abierta, el vaso de vino vacío inclinado sobre la sábana, con la expresión de alguien que había dejado de pelear por esa noche con algo que seguía sin tener nombre preciso pero que se parecía demasiado, en su resistencia, a la imaginación.
+Pasó tan rápido que los Montoya se rieron. Rodrigo también se rió, aunque Mariana vio en sus ojos el destello breve de la rabia antes de que llegara la sonrisa. Era un destello que conocía bien. Los demás en la mesa no lo vieron o prefirieron no verlo.
 
----
-
-La transmisión llevaba veinte minutos cuando Camila desplegó el mapa sobre la mesa y empezó a marcar. No era parte del protocolo pero tampoco nadie se lo impidió. El Coronel Vásquez enumeraba desde el otro lado de la frecuencia con esa parsimonia de inventario que ya conocía de memoria: municipios, rutas, flancos. Pérez anotaba con la cabeza gacha. Camila marcaba. Cada punto que añadía al mapa confirmaba lo que su cabeza llevaba construyendo desde la noche anterior con la misma lógica fría que el general prusiano aplicaba al terreno: no lo que uno desea sino lo que la geografía dictamina. Y lo que el mapa dictaminaba era un cerco. No inminente, no dramático, pero cerco al fin: una geometría que se cerraba despacio, con la paciencia de quien sabe que el tiempo juega a su favor.
-
-Fue en ese momento, con el lápiz suspendido sobre el papel, cuando lo sintió. Una tibieza repentina, inconfundible, que el cuerpo elige siempre con una puntería cruel. Camila no se movió. Terminó de marcar el punto. Registró la sensación con la misma parte del cerebro que registra el frío o el hambre: una nota al margen, algo que atender después. La voz de Vásquez seguía llegando por la radio con su cadencia de lista de supermercado. Camila miró la columna de bajas en la bitácora: una lista larga y ordenada de lo que la guerra se había cobrado esa semana. Luego miró su mano. Luego el mapa. Hizo la siguiente marca.
-
-Cuando Vásquez terminó el reporte, Camila habló. Lo hizo con la precisión que había aprendido de Clausewitz y que aplicaba cuando quería que la escucharan: terreno, flancos, tiempo, proyección. Señaló los puntos marcados en el mapa uno por uno. El patrón era claro. Si las últimas tres semanas se sostenían como tendencia, en un plazo que no excedía los cuarenta días la situación dejaría de ser una retirada táctica para convertirse en otra cosa. Pérez levantó la vista de la bitácora y miró el mapa con una expresión que Camila no supo leer. Vásquez guardó silencio un momento. Luego habló. *Mayor Montoya, ¿tiene confirmación de inteligencia que respalde esa lectura?* Camila no la tenía. Lo que tenía era el mapa, los puntos, la geometría. *Con el debido respeto* — intervino Pérez antes de que ella respondiera, con esa entonación que no tenía nada de respeto sino de cierre — *ese análisis excede lo que está en el parte oficial.* Vásquez no agregó nada. La radio emitió un chasquido breve y la frecuencia quedó en silencio de fondo. Camila miró el mapa un momento más. Dobló el lápiz entre los dedos. Nadie dijo nada.
-
-Se excusó sin dar explicaciones y cruzó el corredor hacia el baño. Cerró la puerta con el mismo cuidado con el que se cierra una conversación que no va a ninguna parte. Bajo la luz fría del fluorescente evaluó el daño: menor, contenible, de esos que se resuelven con lo que uno carga por costumbre. Lo resolvió con la misma eficiencia mecánica con la que doblaba los pantalones al pie de la cama. Pero antes de salir se quedó un momento quieta, mirando la mancha pequeña de sangre en la ropa interior con una atención que nadie, esa mañana, le había dedicado al mapa.
+Las gaviotas rondaban el barco desde que zarparon. Sobrevolaban la cubierta con esa confianza insolente de quien sabe que los demás miran hacia otro lado, y cuando encontraban el descuido exacto descendían y tomaban lo que querían y se iban. Nadie las perseguía. Nadie las espantaba con verdadera convicción. Los pasajeros protestaban un momento y luego volvían a sus conversaciones, porque las gaviotas eran parte del paisaje y protestar demasiado habría arruinado el ambiente.
 
 ---
 
-Llegaron al comando con el sol todavía bajo. Los dos guardias de la policía militar flanqueaban la entrada con la expresión de siempre, como si el tiempo no transcurriera en el umbral del comando, como si nadie hubiera salido despavorido por esa puerta el día anterior ni hubiera vuelto a entrar. Camila se permitió dos segundos de ventana antes de sentarse: la yegua zaina estaba en el potrero de siempre, quieta, con esa paz que ya le resultaba casi insoportable de envidiar. Los alcaravanes no estaban. El potrero sin ellos tenía algo de escenario vacío. Respiró, se sentó, abrió la bitácora.
+Cuando llegó el mensaje de Jimena, Rodrigo estaba a diez metros explicándole a Carlos Montoya las virtudes del puerto franco de Barranquilla. Mariana caminó en círculos pequeños por la cubierta mientras le dictaba el historial a la nueva enfermera: las dosis, los horarios, la posición de la almohada porque su madre tenía una contractura vieja en el lado derecho del cuello que se agravaba con el frío.
 
-La transmisión inició a la hora de siempre. Vásquez enumeraba. Municipios, rutas, flancos. Tres unidades diezmadas en el sur. Un puente dinamitado. Una columna que avanzaba sin encontrar resistencia porque no había con qué resistirla. Camila anotaba. Pérez escuchaba. El cerco que ella había trazado en el mapa el día anterior seguía cerrándose, punto por punto, con la puntualidad de lo inevitable. Entonces algo interrumpió la voz de Vásquez. Un ruido sordo al otro lado de la frecuencia, una exclamación, y luego su voz transformada. *¡Señorita, por el amor de Dios, es la tercera vez esta semana!* La indignación era genuina, caliente, viva — la misma voz que había enumerado doscientos muertos con la cadencia de un inventario de bodega ahora se rasgaba por un pocillo de café derramado sobre un escritorio. Camila dejó de anotar. Miró a Pérez. Pérez miraba la radio.
+La enfermera dijo que sí a todo.
 
-*Disculpen* — retomó Vásquez, recomponiéndose — *en lo que estábamos. Y ya que estamos, Pérez, es un tema que tengo pendiente: no deberíamos aceptar mujeres en periodo en las filas. Es un problema operacional. Un riesgo. Una distracción.* Hubo una pausa breve, de las que se llenan solas. *Y francamente, un problema de imagen.*
+Mariana no supo si era verdad.
 
-Camila cerró la bitácora con cuidado. Destrabó la pistola de dotación. La cargó. Y la depositó sobre la mesa con una parsimonia tan calculada, tan idéntica a la que Vásquez empleaba para describir municipios perdidos, que Pérez se quedó sin aire. Sus ojos fueron de la pistola a Camila y de Camila a la pistola con la velocidad del pánico. Camila no lo miró. Tenía los ojos puestos en la radio como si fuera una ventana.
+Esa noche, en el camarote, Rodrigo esperó a que los niños estuvieran dormidos.
 
-Vásquez notó el silencio al otro lado. *Pérez, ¿está ahí? ¿Es la guerra, hombre? ¿Le entró el canguelo?* La risa fue breve y sin gracia. *Los muertos son la materia prima de esta institución, no se nos puede olvidar eso. Sin muertos no hay ejército. Sin ejército no hay patria. Es así de simple.* Pérez abrió la boca. La cerró. La volvió a abrir. *Mi Coronel, es que... la mayor Montoya...* Su voz se deshiló en el aire como humo.
+—¿Qué tan grave es? —preguntó.
 
-*¿La mayor Montoya?* repitió Vásquez, y en la forma en que lo dijo cabía todo. *Mire, Pérez, con el respeto que me merece el arma: una mujer vestida de soldado me impresiona exactamente igual que un soldado vestido de mujer.*
+—El médico dice que ya es cuestión de días.
 
-Camila tomó la pistola de la mesa y habló. Lo hizo sin levantar la voz, con la misma precisión con la que el día anterior había señalado los puntos del mapa. *Mi Coronel, yo no juré defender la institución. Juré defender la democracia. Y si la institución decide sentarse a negociar con quienes la están destruyendo, mi juramento y la institución dejan de ser la misma cosa.* Pausa. *Con el debido respeto.*
+Silencio.
 
-*Mayor Montoya.* La voz de Vásquez bajó un registro, la que reservaba para cuando quería que algo sonara a sentencia. *Usted va a hacer exactamente lo que se le indique, en el momento en que se le indique, y no antes. ¿Me entiende? Porque si se me ponen a hacer maniobras no autorizadas, perdemos margen. Perdemos capacidad de negociación.*
+—Mariana. —Una pausa calculada. La pausa que precede a las cosas que se dicen como si fueran razonables. — Llevamos dos años planeando esto. ¿Tú sabes lo que costó conseguir que los Montoya vinieran? ¿Lo que significa que estemos aquí después de todo lo del año pasado?
 
-*¿Negociación con quién, mi Coronel?*
+—Mi madre se está muriendo.
 
-El silencio que siguió tenía textura. Vásquez lo dejó durar un momento de más. *Con quien sea necesario negociar, Mayor. Así funciona la política. Y si ustedes se me rebelan ahora, llegamos a esa mesa sin nada que ofrecer y sin nada que pedir. ¿Eso es lo que quiere?*
+—Lo sé. Y lo siento. —Otra pausa. — Pero hay cosas que no podemos controlar. Lo que sí podemos controlar es cómo respondemos.
 
-*Lo que quiero es no llegar a ninguna mesa.* Se volvió hacia Pérez. *Mayor, instruya a su unidad. Se pliegan a las mías esta tarde. Salimos al amanecer.*
-
-Pérez miró la radio. Miró a Camila. Miró sus manos. *Mayor Montoya, yo recibo órdenes del Coronel Vásquez y usted lo sabe. No puedo—*
-
-Los tres disparos fueron al techo. Secos, espaciados, con la misma parsimonia con la que ella había puesto la pistola sobre la mesa. El yeso cayó en polvo fino sobre la bitácora. Pérez se tiró hacia atrás con la silla y quedó pegado a la pared con los ojos abiertos y la respiración cortada. En la radio, Vásquez gritaba algo que ninguno de los dos escuchó.
-
-*¿Sus tropas o las mías, Mayor?*
-
-Pérez asintió. No dijo nada. Asintió con la cabeza dos veces, despacio, con la expresión de alguien a quien el miedo acaba de resolver una duda que el deber no había podido.
-
-Camila dobló el mapa, lo guardó bajo el brazo y cruzó la puerta. Se detuvo frente a los dos guardias de la policía militar. Los miró uno por uno, con la misma calma con la que había puesto la pistola sobre la mesa. *Entren. Detengan al mayor Pérez. Espósenlo y llévenlo al calabozo. Poca comida, poca agua, poco sol.* Los guardias no preguntaron. Miraron hacia adentro, donde Pérez seguía pegado a la pared con la silla volcada y la respiración entrecortada, sin hacer nada, sin decir nada, sin encontrar en sí mismo ningún argumento que oponer. Eso fue suficiente. Entraron. Afuera, el potrero. La yegua levantó la cabeza un instante y la volvió a bajar. Ni siquiera los disparos la habían inmutado.
+Mariana no respondió. Rodrigo apagó la luz de su lado. En la oscuridad, el barco avanzaba con su vibración constante, que a esas horas se confundía con el pulso.
 
 ---
 
-La yegua no protestó cuando la ensillaron. Era temprano y el aire tenía ese frío húmedo que precede a las cosas irreversibles. Camila montó sin ceremonia, con el mismo gesto de todos los días, pero el animal lo sintió distinto — algo en el peso, en la forma en que las manos tomaron las riendas, en la respiración que no era la del ejercicio sino la de otra cosa. La yegua ajustó sus pasos al silencio que le pedían y salió de la base al frente de dos pelotones montados con la calma larga y engañosa de una tropa que no tiene apuro porque sabe adónde va.
+El cuarto día no salió del camarote.
 
-El plan era simple en su superficie y brutal en su fondo: ellos avanzaban visibles, ruidosos, levantando polvo por el camino principal, atrayendo los ojos del enemigo hacia el norte mientras la caballería mecanizada se movía en sentido contrario por el flanco sur, sin luces, sin radio, con la orden de no detenerse por nada hasta cerrar el cerco desde adentro. El anzuelo y el gancho. Camila era el anzuelo.
+Rodrigo le llevó el desayuno sin preguntar nada, lo cual era una forma de preguntar todo. Luego se vistió, peinó a los dos menores y llevó a los cinco a la excursión en tierra que estaba programada. Antes de salir se detuvo en la puerta.
 
-Llevaban veinte minutos de marcha cuando llegó la primera onda expansiva. No se oyó antes de sentirse: fue el suelo primero, una vibración que subió por las patas de la yegua y llegó hasta las manos de Camila como un aviso. Luego el sonido, sordo y redondo, desde el sureste. Una base. Pérez diría que era artillería de largo alcance. Camila sabía que no. Las bases que caían así, sin resistencia previa, sin intercambio prolongado, caían porque adentro alguien había estado esperando órdenes que no llegaron, llenando bitácoras, calculando concesiones, negociando con la geografía y con el tiempo hasta que el tiempo se acabó.
+—Esta noche hay cena con los Montoya —dijo.
 
-Las aves salieron todas a la vez. Cientos, de especies que no convivían, levantando vuelo en una nube oscura y caótica que por un momento tapó el sol. En el pánico sin dirección de sus alas, en esa urgencia que no sabe adónde ir porque no distingue entre el peligro y el mundo, Camila reconoció algo que había sido suyo. La yegua dio un paso lateral pero no se detuvo. Camila le habló al oído con dos palabras que nadie más escuchó y el animal siguió, con los mismos ojos de siempre, con el mismo peso de siempre, llevando todo hacia adelante sin preguntarle nada al horizonte. Las aves se perdieron. La yegua no. Otra explosión, más cerca, al oeste esta vez. Y otra. El horizonte empezaba a tener un color que no era del amanecer.
+—Ya sé.
 
-Los soldados de los pelotones montados se miraban entre sí con esa pregunta en la cara que los soldados nunca hacen en voz alta. Camila no se volvió. Tenía los ojos adelante, en el punto donde el camino principal doblaba y el terreno se abría, donde en menos de una hora la caballería mecanizada estaría completando el movimiento que el mapa había prometido tres días atrás y que nadie había querido ver. Apretó levemente las rodillas. La yegua aceleró el paso.
+—Sería bueno que estuvieras.
 
-Detrás, en el comando vacío, la radio seguía transmitiendo. La voz de Vásquez enumeraba con su parsimonia de siempre. Municipios, rutas, flancos. Nadie tomaba nota.
+No era una petición.
+
+Sola en la suite, Mariana llamó al médico de cabecera, que no contestó. Llamó a Jimena, que estaba en términos vagos que sonaban a desbordamiento: que la vecina del piso de abajo no había podido ese día, que la medicación del mediodía se había administrado con retraso, que su madre había dormido mucho.
+
+—¿Durmió mucho o estaba sedada?
+
+—Pues... dormida, señora.
+
+—Son cosas distintas, Jimena.
+
+Silencio al otro lado. El tipo de silencio que produce alguien que no entiende la diferencia pero que tampoco quiere admitirlo.
+
+Mariana pasó la tarde mirando el mar. No era contemplación. Era lo que queda cuando se han agotado las opciones y el cuerpo no encuentra otra postura. Dos gaviotas sobrevolaban el balcón con sus círculos lentos y pacientes. Esperaban algo. O simplemente eran así: criaturas del umbral, siempre listas, nunca del todo quietas.
+
+Fue a la cena.
+
+---
+
+El quinto día salió temprano.
+
+Se arregló con esmero delante del espejo. No era vanidad: era cálculo. Sabía que la forma en que apareciera determinaría las preguntas que le harían, o mejor dicho, las que no le harían. El vestido verde que Rodrigo nunca comentaba pero tampoco había desaprobado. El corrector debajo de los ojos. El cabello recogido.
+
+Bajó a la cubierta.
+
+Fernanda Montoya la vio llegar y dijo: *Qué bien te ves.* Dicho así, sin pausa, sin pregunta, como quien cierra una puerta antes de que entre el frío. Carlos levantó el vaso. Rodrigo le cedió la tumbona que había reservado a su lado.
+
+Nadie preguntó por su madre.
+
+Nadie preguntó nada.
+
+Mariana se sentó. Pidió agua. Miró el océano verde y agitado de ese día, y pensó que el mar al menos tenía la honestidad de cambiar.
+
+Por dentro calculaba permanentemente: cuánto tiempo sin revisar el teléfono para que no pareciera ansiedad, cuánto reír para que no pareciera teatro, qué decir si alguien finalmente preguntaba, cómo dosificar la verdad para que cupiera dentro del viaje sin arruinarlo. Porque arruinar el viaje era la única falta que nadie le perdonaría.
+
+Una gaviota aterrizó en la barandilla a un metro de ella. La miró con sus ojos redondos y amarillos, sin miedo, sin apuro. Luego se fue.
+
+---
+
+La noticia llegó el sexto día, a las once de la noche.
+
+Fue una llamada de Jimena con una voz que ya lo decía todo antes de decirlo.
+
+Mariana salió al balcón para contestar. A través del vidrio vio a Rodrigo en la cama, leyendo. La luz del velador le daba al cuarto un aspecto de normalidad tan completo que por un momento le pareció obsceno.
+
+Jimena dijo las palabras. Mariana escuchó. Agradeció. Colgó.
+
+Se quedó en el balcón un rato largo. El barco avanzaba. Se podía sentir la vibración del motor en los pies descalzos sobre el suelo metálico. Abajo, el agua negra se rompía en espuma blanca y desaparecía hacia atrás, y lo que antes había sido el camino no dejaba rastro.
+
+Rodrigo abrió el vidrio.
+
+—¿Quién era?
+
+—Jimena.
+
+Una pausa.
+
+—¿Tu mamá?
+
+—Sí.
+
+Rodrigo salió al balcón. Le puso la mano en el hombro: ni cariño ni amenaza, algo intermedio que podía pasar por ambos según quien mirara. Le dijo que lo sentía. Le dijo que mañana verían los vuelos. Le dijo que había que descansar.
+
+Mariana entró. Se acostó. Apagó la luz de su lado.
+
+No lloraron juntos porque no era una cosa que hicieran juntos.
+
+---
+
+Al día siguiente no hubo vuelos posibles. El siguiente puerto era Marsella y la conexión desde allí llegaba a Bogotá con dieciséis horas de retraso respecto al entierro, que Jimena había fijado para el lunes.
+
+Rodrigo hizo los cálculos en voz alta. Eran los cálculos correctos.
+
+—No llegas —dijo.
+
+—Lo sé.
+
+—Entonces no tiene sentido salir antes.
+
+Mariana no respondió. Tampoco negó. Había aprendido que ceder a tiempo era más eficiente que resistir.
+
+Esa mañana bajó a desayunar con los Montoya. Fernanda le preguntó si ya estaba mejor del estómago. Mariana dijo que sí, mucho mejor, gracias.
+
+En la cubierta, una gaviota le robó el pan de la mano a un hombre mayor que había bajado la guardia un momento. El hombre protestó. Los que estaban cerca se rieron con esa risa que no es de burla sino de alivio, porque esta vez le había tocado a otro.
+
+---
+
+Las flores llegaron el martes.
+
+Jimena lo notificó con un mensaje breve. Los claveles blancos que Mariana había encargado desde la cubierta del barco, con la nota escrita a mano que decía *con cariño de sus hijos*, llegaron al apartamento vacío un día después del entierro.
+
+Jimena las puso en la sala. Dijo que olían bien.
+
+El barco seguía en el Mediterráneo. Esa tarde había recepción en el salón principal: música en vivo y vista al atardecer. Rodrigo llevó el traje azul marino. Mariana el vestido negro que él había aprobado en el aeropuerto. Los cinco hijos en sus camarotes bajo el protocolo de la hoja plastificada.
+
+Los Montoya llegaron puntuales.
+
+Fernanda dijo: *Qué elegante todo.*
+
+Carlos pidió champán para todos.
+
+Rodrigo brindó.
+
+Mariana sostuvo la copa. Afuera el sol se hundía en el mar con una lentitud calculada, y el cielo se volvió anaranjado y luego rojo y luego una oscuridad limpia que no se parece a ninguna otra oscuridad.
+
+En la barandilla del salón, dos gaviotas esperaban con esa paciencia insolente de quien sabe que el descuido siempre llega. Tarde o temprano alguien baja la guardia. Tarde o temprano hay algo que tomar.
+
+Nadie preguntó nada.
+
+El barco siguió.
