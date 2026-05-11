@@ -10,6 +10,7 @@ Usage:
 
 import re
 import sys
+import json
 import argparse
 import urllib.request
 import urllib.parse
@@ -96,6 +97,46 @@ def download_image(url: str, dest_dir: Path, slug: str) -> str:
     return f'/assets/images/{filename}'
 
 
+def pick_incipit(plain_text: str) -> str:
+    """Call Claude API to pick the best incipit sentence from the post body."""
+    try:
+        import anthropic
+        client = anthropic.Anthropic()
+        message = client.messages.create(
+            model='claude-sonnet-4-6',
+            max_tokens=256,
+            messages=[{
+                'role': 'user',
+                'content': (
+                    'Eres editor literario de un blog de ficción en español. '
+                    'Del siguiente texto, elige LA ÚNICA oración más memorable, '
+                    'evocadora o literariamente poderosa para usar como incipit '
+                    'en la portada del blog. Devuelve SOLO la oración, sin comillas, '
+                    'sin explicación, sin puntuación adicional.\n\n'
+                    f'{plain_text[:4000]}'
+                ),
+            }],
+        )
+        return message.content[0].text.strip().strip('"').strip("'")
+    except Exception as e:
+        print(f'Advertencia: no se pudo generar incipit automático ({e})')
+        return ''
+
+
+def insert_incipit(repo_root: Path, incipit_text: str, title: str, url: str) -> None:
+    """Insert a new incipit entry at the top of the incipits array in index.html."""
+    index_path = repo_root / 'index.html'
+    content = index_path.read_text(encoding='utf-8')
+
+    safe_text  = incipit_text.replace('\\', '\\\\').replace('"', '\\"')
+    safe_title = title.replace('\\', '\\\\').replace('"', '\\"')
+    new_entry  = f'  {{\n    text: "{safe_text}",\n    title: "{safe_title}",\n    url: "{url}"\n  }},\n  '
+
+    content = content.replace('const incipits = [\n  {', f'const incipits = [\n  {{\n    text: "{safe_text}",\n    title: "{safe_title}",\n    url: "{url}"\n  }},\n  {{', 1)
+    index_path.write_text(content, encoding='utf-8')
+    print(f'Incipit añadido a index.html: "{incipit_text[:80]}..."' if len(incipit_text) > 80 else f'Incipit añadido a index.html: "{incipit_text}"')
+
+
 def build_post(title: str, post_date: str, cover: str, body_html: str) -> str:
     safe_title = title.replace('"', '\\"')
     return f"""---
@@ -165,6 +206,14 @@ def main():
 
     output_path.write_text(post_content, encoding='utf-8')
     print(f'Publicado: _posts/{filename}')
+
+    # Generate incipit and add to index.html
+    plain_text = re.sub(r'<[^>]+>', ' ', body_html)
+    plain_text = re.sub(r'\s+', ' ', plain_text).strip()
+    incipit_text = pick_incipit(plain_text)
+    if incipit_text:
+        post_url = f'/{post_date.replace("-", "/", 2)}/{slug}/'
+        insert_incipit(repo_root, incipit_text, title, post_url)
 
     source_path.write_text('', encoding='utf-8')
     print(f'in-progress.md vaciado.')
