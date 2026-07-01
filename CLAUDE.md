@@ -74,6 +74,8 @@ If no image is provided, the post is created with `IMAGE_URL_PLACEHOLDER` in the
 
 When asked to write or draft a text for this blog, use exclusively vocabulary already present in `vocabulario.txt`. Do not introduce words that don't appear in that file. The register is literary Spanish: personal, essayistic, sometimes narrative — consistent with the existing posts.
 
+**MANDATORY PROCESS**: Before finalizing any draft, grep every non-trivial word against `vocabulario.txt`. Do not rely on spot-checks — verify each word individually. If a word is not found, replace it with a synonym that IS in the file before writing the draft to `in-progress.md`. Never write a draft and then discover vocabulary violations after the fact.
+
 ## Vocabulary check on publish
 
 After running `publish.py` (or when editing a post in `_posts/`), compare the words in the new post against `vocabulario.txt`. Report any words not present in the file — these are candidates the author added manually and may warrant updating `vocabulario.txt`.

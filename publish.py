@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 publish.py — Convert in-progress.md to a Jekyll post in _posts/.
 

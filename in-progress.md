@@ -1,0 +1,77 @@
+El alcaraván puso su nido en el peor lugar posible: en el centro exacto del potrero, sobre un parche de tierra seca entre dos charcos, a doscientos metros del cerco y a ninguno de la sombra. No había árbol cerca. No había piedra que sirviera de abrigo. Había, eso sí, un camino que los caballos usaban cada mañana y que pasaba a tres metros del nido con la indiferencia propia de los caminos.
+
+El alcaraván no lo consideró un problema. Lo consideró su territorio.
+
+A cien metros de allí, sobre una piedra que le servía de asiento y de escritorio, el capitán Peña tenía desplegado el mapa, el cuaderno y el lápiz. Llevaba tres días en ese potrero. La herida en el costado le había impedido avanzar con los demás y sus superiores, que eran hombres de pocas palabras, lo habían dejado con la orden de diseñar las estrategias para la siguiente línea. Peña era bueno en eso. Siempre había sido mejor pensando la guerra que viviéndola.
+
+---
+
+**I. El aguilucho**
+
+El primer duelo fue legítimo.
+
+Vino un aguilucho desde el norte, con ese vuelo en círculos que los rapaces usan cuando calculan. El alcaraván lo vio desde lejos, como se ven todas las amenazas verdaderas: primero como una sombra sobre la tierra, después como un punto que crece, finalmente como una intención.
+
+No esperó.
+
+Despegó del borde del nido con un grito que llenó la mañana y fue directo hacia él, las espuelas al frente, las alas abiertas, el pico orientado con la precisión de quien lleva años practicando una sola cosa. El aguilucho, grande y confiado, vaciló. Ese instante fue suficiente. El alcaraván lo golpeó en el costado, se alejó en arco y volvió antes de que pudiera girar. El aguilucho chilló, perdió altura, buscó el viento y se fue hacia el este sin mirar atrás.
+
+El alcaraván regresó al nido. Caminó dos veces alrededor de los tres huevos. Después se quedó quieto, con la furia todavía en el pecho y los ojos fijos en el horizonte, como un soldado que sabe que esto no termina aquí.
+
+El capitán Peña levantó la vista del mapa. Había seguido el duelo desde el principio, el lápiz quieto sobre el papel. Volvió a escribir, pero lo que escribió no era una estrategia. Era una sola oración que tachó de inmediato.
+
+---
+
+**II. El perro**
+
+El segundo duelo no fue legítimo. Fue ridículo, y el alcaraván lo ganó de todas formas.
+
+El perro cruzó el potrero por el camino de siempre, con esa alegría sin memoria de los perros que nunca han tenido un enemigo serio. Pasó a dos metros del nido sin verlo. El alcaraván lo vio a él.
+
+Lo que siguió fue difícil de explicar con dignidad.
+
+El alcaraván se lanzó sobre el perro con el mismo grito de batalla que había usado contra el aguilucho, con la misma furia, con las mismas espuelas. El perro pegó un salto, se enredó en sus propias patas y cayó en el charco más cercano. Se levantó mojado y confundido, miró en todas direcciones sin entender de dónde venía el peligro, y echó a correr hacia el cerco con el rabo entre las patas.
+
+El alcaraván lo persiguió hasta el límite del potrero. Después volvió al nido por el aire, alto y lento, como quien regresa de una victoria que no necesita testigos.
+
+Los huevos estaban intactos. El perro no había pasado a menos de cuatro metros. Ninguno de los dos datos alteró la convicción del alcaraván de que había salvado algo importante.
+
+El capitán Peña no levantó la vista esta vez. Tenía la mano sobre el cuaderno y la gasa del costado húmeda de rojo. El dolor era conocido, había aprendido a separarlo del pensamiento como se separa el ruido del silencio. Lo que no había aprendido a separar era la otra cosa: la ausencia que no tenía vendaje posible, que no mejoraba con los días, que se instalaba en el pecho cada amanecer con la puntualidad de la tristeza vieja.
+
+Escribió otra oración. La tachó también.
+
+---
+
+**III. El tanque**
+
+El tercer duelo fue el más absurdo y el más verdadero.
+
+Llegó un martes al amanecer, cuando la luz todavía no había decidido su color. Era un tanque viejo que venía del fondo del potrero dejando un rastro de humo negro y un ruido que aplastaba todos los demás ruidos. El hombre que lo manejaba miraba hacia adelante con esa concentración de los que manejan máquinas grandes y no ven lo que está a nivel del suelo.
+
+El alcaraván lo vio venir desde lejos.
+
+Gritó. El tanque no respondió.
+
+Gritó más fuerte. El tanque siguió avanzando con la indiferencia de las cosas que no arrastran instintos.
+
+A cien metros despegó y fue hacia él. Las espuelas no servían contra el metal. El pico tampoco. El alcaraván lo sabía, en el modo en que los animales saben las cosas que no entienden: sin palabras, sin cálculo, con el cuerpo. Pero voló igual, en círculos sobre la máquina, gritando con toda la rabia que tenía, porque el honor no distingue entre los enemigos que puede vencer y los que no puede.
+
+El soldado del tanque lo vio. Levantó la vista, entendió lo que estaba mirando, y giró la máquina diez metros hacia el norte.
+
+El tanque pasó. El nido quedó atrás, intacto, sobre su parche de tierra seca entre dos charcos, en el peor lugar posible del potrero.
+
+El alcaraván descendió. Caminó alrededor de los huevos una vez, dos veces, tres. Después levantó la cabeza hacia el horizonte, todavía con las alas medio abiertas, todavía con el grito en la garganta.
+
+El capitán Peña guardó el lápiz. Dobló el mapa con cuidado, como se doblan las cosas que ya no van a usarse. Las estrategias que había escrito durante tres días estaban en el cuaderno: líneas limpias, posiciones claras, órdenes precisas para soldados que no iban a leerlas porque la guerra, mientras él escribía, había terminado mal y lejos.
+
+Se levantó de la piedra con el esfuerzo de los cuerpos que cargan más de lo que se ve. La herida del costado era lo de menos. Lo de más era lo otro: la persona al final del camino y que ya no esperaba, la carta sin respuesta, el silencio que llegó primero que cualquier noticia y que era, como todos los silencios de ese tipo, la única noticia verdadera.
+
+Miró al alcaraván una última vez.
+
+El ave seguía de pie junto al nido, los ojos en el horizonte, lista para el siguiente duelo.
+
+El capitán Peña recogió el cuaderno y empezó a caminar hacia el norte, hacia lo que quedaba.
+
+No había nada más que defender por ahora.
+
+Eso nunca le había parecido una razón para descansar.
